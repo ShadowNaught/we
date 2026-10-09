@@ -1,0 +1,49 @@
+{
+  "replacement_rules": [
+    {
+      "name": "sakurablade",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/ASUS/Downloads/sakurablade.obj"
+    },
+    {
+      "name": "sakurabody",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/ASUS/Downloads/sakurabody.obj"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160800186
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133811689655966
+    },
+    {
+      "name": "att1",
+      "replace_ids": [
+        14111617408
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/ASUS/Downloads/sakura1.MP3"
+    },
+    {
+      "name": "att2",
+      "replace_ids": [
+        14111617269
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:/Users/ASUS/Downloads/sakura2.MP3"
+    }
+  ]
+}
